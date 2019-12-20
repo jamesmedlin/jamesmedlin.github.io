@@ -1,7 +1,12 @@
 body {
     margin: 20px auto;
     width: 70%;
-    background: linear-gradient(to bottom right, #808080 0%, #000000 100%);
+    background: linear-gradient(to bottom right, #808080 0%, #02aef1 100%);
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
 }
 
 .topnav a {
@@ -22,6 +27,15 @@ body {
 .topnav a.active {
     background-color: #0000ff;
     color: white;
+}
+
+.topnav input[type=text]{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
 }
 
 .topnav .icon {
