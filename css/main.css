@@ -47,7 +47,7 @@ body {
 }
 
 ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Roboto';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -59,6 +59,12 @@ ul li, footer ul li {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h3 {
+    font-size: 2em;
+    font-family: 'Roboto';
+    font-style: normal;
+    float: center;
 }
 p {
     font-size: 1.5em;
