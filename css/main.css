@@ -71,12 +71,14 @@ h3 {
     font-family: 'Roboto';
     font-style: normal;
     text-align: center;
+    color: #ddd;
 }
 h2 {
     font-size: 1.75em;
     font-family: 'Roboto';
     font-style: normal;
     text-align: center;
+    color: #00ff00;
 }
 p {
     font-size: 1.5em;
