@@ -50,8 +50,8 @@ body {
     width: 400px;
     height: 400px;
     object-fit: cover;
-    padding-top: 50px;
-    padding-bottom: 20;
+    padding-top: 60px;
+    padding-bottom: 30px;
 }
 
 ul, footer ul {
