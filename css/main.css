@@ -6,7 +6,7 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: linear-gradient(to bottom, #02aef1 0%, #808080 100%);
+    background-color: linear-gradient(to bottom, #000000 0%, #ddd 100%);
 }
 
 .topnav a {
@@ -25,8 +25,7 @@ body {
 }
 
 .topnav a.active {
-    background-color: #02aef1;
-    color: #ddd;
+    color: #02aef1;
 }
 
 .topnav input[type=text]{
