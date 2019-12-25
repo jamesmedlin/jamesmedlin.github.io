@@ -53,6 +53,21 @@ body {
     padding-bottom: 30px;
 }
 
+myProjects.computerScience {
+    margin: 5px;
+    border: 2px solid #ccc;
+    float: left;
+    width: 180px;
+}
+myProjects.computerScience img {
+    width: 100%;
+    height: auto;
+}
+myProjects.computerScience.desc {
+    padding: 15px;
+    text-align: center;
+}
+
 ul, footer ul {
     font-family:'Roboto';
     padding: 0px;
