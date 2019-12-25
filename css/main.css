@@ -1,7 +1,7 @@
 body {
     margin: 20px auto;
     width: 70%;
-    background: linear-gradient(to bottom right, #808080 0%, #02aef1 100%);
+    background: linear-gradient(to bottom right, #02aef1 0%, #808080 100%);
 }
 
 .topnav {
@@ -21,11 +21,11 @@ body {
 
 .topnav a:hover{
     backgroung-color: #ddd;
-    color: #00ff00;
+    color: #02aef1;
 }
 
 .topnav a.active {
-    background-color: #0000ff;
+    background-color: #02aef1;
     color: white;
 }
 
