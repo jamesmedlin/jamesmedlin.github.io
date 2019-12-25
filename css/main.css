@@ -6,7 +6,7 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: linear-gradient(to bottom, #000000 0%, #ddd 100%);
+    background: linear-gradient(to bottom, #000000 0%, #ddd 100%);
 }
 
 .topnav a {
