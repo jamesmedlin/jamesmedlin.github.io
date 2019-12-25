@@ -59,6 +59,9 @@ myProjects.computerScience {
     float: left;
     width: 180px;
 }
+myProjects.computerScience:hover {
+    border: 2px solid #808080;
+}
 myProjects.computerScience img {
     width: 100%;
     height: auto;
