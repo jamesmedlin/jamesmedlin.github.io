@@ -54,7 +54,6 @@ body {
     object-fit: cover;
     padding-top: 60px;
     padding-bottom: 30px;
-    border-radius: 420px;
 }
 myProjects.computerScience {
     margin: 5px;
@@ -74,21 +73,21 @@ myProjects.computerScience.desc {
     font-size: 10px;
 }
 
-myProjects.computerScience {
+.myProjects.computerScience {
   padding: 0 6px;
   float: left;
-  width: 24.99999%;
+  width: 33.32%;
 }
 
 @media only screen and (max-width: 700px) {
-  .responsive {
+  .myProjects.computerScience {
     width: 49.99999%;
     margin: 6px 0;
   }
 }
 
 @media only screen and (max-width: 500px) {
-  .responsive {
+  .myProjects.computerScience {
     width: 100%;
   }
 }
