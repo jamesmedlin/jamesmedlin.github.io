@@ -1,7 +1,7 @@
 
 /* roboto-500 - latin */
 @font-face {
-  font-family: 'Roboto_Greeting';
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
   src: local('Roboto Medium'), local('Roboto-Medium'),
@@ -12,7 +12,7 @@
 
 /* roboto-regular - latin */
 @font-face {
-  font-family: 'Roboto_Title';
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   src: local('Roboto'), local('Roboto-Regular'),
@@ -23,7 +23,7 @@
 
 /* roboto-300 - latin */
 @font-face {
-  font-family: 'Roboto_Description';
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
   src: local('Roboto Light'), local('Roboto-Light'),
