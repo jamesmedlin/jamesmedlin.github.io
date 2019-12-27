@@ -59,7 +59,6 @@ body {
 myProjects.computerScience {
     margin: 5px;
     border: 2px solid #ccc;
-    float: left;
     width: 180px;
 }
 myProjects.computerScience:hover {
