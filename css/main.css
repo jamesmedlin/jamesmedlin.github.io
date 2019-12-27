@@ -54,7 +54,7 @@ body {
     object-fit: cover;
     padding-top: 60px;
     padding-bottom: 30px;
-    border: 2px;
+    border-radius: 420px;
 }
 myProjects.computerScience {
     margin: 5px;
