@@ -110,13 +110,6 @@ h1 {
     text-align: center;
     font-size: 70px;
 }
-h3 {
-    font-family: Roboto, sans-serif;
-    text-align: center;
-    color: #ddd;
-    font-size: 45px;
-    padding-top: 20px;
-}
 h2 {
     font-size: 25px;
     font-family: Roboto, sans-serif;
@@ -124,13 +117,20 @@ h2 {
     text-align: center;
     color: #ffffff;
 }
+h3 {
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    color: #ddd;
+    font-size: 45px;
+    padding-top: 20px;
+}
 h4 {
     font-family: Roboto, sans-serif;
     font-style: normal;
     text-align: center;
     font-size: 35px;
     color: #ffffff;
-p {
+h5 {
     font-family: Roboto, sans-serif;
     font-style: normal;
     text-align: center;
