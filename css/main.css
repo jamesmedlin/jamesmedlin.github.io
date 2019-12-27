@@ -71,7 +71,7 @@ myProjects.computerScience.desc {
 }
 
 ul, footer ul {
-    font-family:'Roboto';
+    font-family:"Roboto";
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -82,27 +82,27 @@ ul li, footer ul li {
 }
 h1 {
     font-size: 3em;
-    font-family:"Roboto", "Bookman";
+    font-family:"Roboto";
     color: #ffffff;
     text-align: center;
 }
 h3 {
     font-size: 2em;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-style: normal;
     text-align: center;
     color: #ddd;
 }
 h2 {
     font-size: 1.75em;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-style: normal;
     text-align: center;
     color: #00ff00;
 }
 h4 {
     font-size: 1.5em;
-    font-family: Roboto;
+    font-family: "Roboto";
     font-style: normal;
     text-align: center;
     color: #ffffff;
