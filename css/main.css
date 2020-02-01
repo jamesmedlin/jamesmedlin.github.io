@@ -63,6 +63,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 70%;
 }
 
 .computerScience {
