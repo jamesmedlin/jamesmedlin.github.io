@@ -63,13 +63,12 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 70%;
 }
 
 .computerScience {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 
