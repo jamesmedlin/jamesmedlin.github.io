@@ -3,18 +3,19 @@
 
 body {
     margin: 20px auto;
-    width: 70%;
+    width: 100%;
     background: linear-gradient(to bottom right, #02aef1 0%, #808080 100%);
 }
 
 .topnav {
+    display: flex;
     overflow: hidden;
     background: linear-gradient(to bottom, #ffffff 0%, #d0cece 100%);
 }
 
 .topnav a {
-    float: left;
-    display: block;
+    justify-content: space-around;
+    flex-direction: row;
     color: #000000;
     text-align: center;
     padding: 14px 16px;
@@ -56,6 +57,12 @@ body {
     object-fit: cover;
     padding-top: 60px;
     padding-bottom: 30px;
+}
+
+.myProjects {
+    display: flex;
+    flex-direction: column;
+
 }
 
 .computerScience {
