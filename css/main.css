@@ -59,11 +59,6 @@ body {
     padding-bottom: 30px;
 }
 
-.myProjects {
-    display: flex;
-    flex-direction: column;
-}
-
 .computerScience {
     display: flex;
     flex-direction: row;
