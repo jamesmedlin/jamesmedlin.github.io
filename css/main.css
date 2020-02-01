@@ -61,6 +61,11 @@ body {
     padding-bottom: 30px;
 }
 
+.myProjects {
+    display: flex;
+    justify-content: center;
+}
+
 .computerScience {
     display: flex;
     justify-content: center;
