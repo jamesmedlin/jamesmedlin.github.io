@@ -57,41 +57,9 @@ body {
     padding-top: 60px;
     padding-bottom: 30px;
 }
-myProjects.computerScience {
-    margin: 5px;
-    border: 2px solid #ccc;
-    width: 180px;
-}
-myProjects.computerScience:hover {
-    border: 2px solid #808080;
-}
-myProjects.computerScience img {
-    height: auto;
-}
-myProjects.computerScience.description {
-    padding: 15px;
-    text-align: center;
-    font-family: Roboto, sans-serif;
-    font-size: 10px;
-}
 
-.myProjects.computerScience {
-  padding: 0 6px;
-  float: left;
-  width: 33.32%;
-}
-
-@media only screen and (max-width: 700px) {
-  .myProjects.computerScience {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .myProjects.computerScience {
-    width: 100%;
-  }
+.computerScience {
+    display: flex;
 }
 
 ul, footer ul {
