@@ -74,7 +74,7 @@ body {
 }
 
 .projectGalleryCS1 {
-    flex: 1;
+    flex: 2;
     padding: 5px 5px;
 }
 .projectGalleryCS2 {
@@ -82,7 +82,7 @@ body {
     padding: 5px 5px;
 }
 .projectGalleryCS3 {
-    flex: 3;
+    flex: 2;
     padding: 5px 5px;
 }
 
