@@ -9,13 +9,13 @@ body {
 
 .topnav {
     display: flex;
+    justify-content: space-around;
+    flex-direction: row;
     overflow: hidden;
     background: linear-gradient(to bottom, #ffffff 0%, #d0cece 100%);
 }
 
 .topnav a {
-    justify-content: space-around;
-    flex-direction: row;
     color: #000000;
     text-align: center;
     padding: 14px 16px;
