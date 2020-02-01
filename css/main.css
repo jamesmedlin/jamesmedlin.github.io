@@ -3,6 +3,7 @@
 
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     margin: 0px auto;
     width: 100%;
@@ -59,11 +60,6 @@ body {
     object-fit: cover;
     padding-top: 60px;
     padding-bottom: 30px;
-}
-
-.myProjects {
-    display: flex;
-    flex-direction: column;
 }
 
 .computerScience {
