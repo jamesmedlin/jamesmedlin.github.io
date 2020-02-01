@@ -2,8 +2,6 @@
 
 
 body {
-    display: flex;
-    justify-content: center;
     margin: 0px auto;
     width: 100%;
     background: linear-gradient(to bottom right, #02aef1 0%, #808080 100%);
@@ -64,6 +62,7 @@ body {
 .myProjects {
     display: flex;
     justify-content: center;
+    flex-direction: row;
 }
 
 .computerScience {
