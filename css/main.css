@@ -60,15 +60,13 @@ body {
     object-fit: cover;
     padding-top: 60px;
     padding-bottom: 30px;
-    position: relative;
+    z-index: 0;
 }
 
 .profileBackground {
-    width: auto;
-    height: auto;
-    position: relative;
-    top: 55px;
-    right: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
 }
 
 .computerScience,
