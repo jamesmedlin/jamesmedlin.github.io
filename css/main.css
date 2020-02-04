@@ -66,11 +66,9 @@ body {
 .profileBackground {
     width: auto;
     height: auto;
-    position: absolute;
+    position: relative;
     top: 55px;
     right: 220px;
-    width: 600px;
-    height: 600px;
 }
 
 .computerScience,
