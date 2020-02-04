@@ -58,6 +58,11 @@ body {
     padding-bottom: 30px;
 }
 
+.profileBackground {
+    width: auto;
+    height: auto;
+}
+
 .computerScience,
 .mechanicalEngineering {
     display: flex;
