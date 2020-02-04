@@ -58,33 +58,27 @@ body {
     padding-bottom: 30px;
 }
 
-.computerScience {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-.projectGalleryCS1 {
-    padding: 5px 5px;
-}
-.projectGalleryCS2 {
-    padding: 5px 5px;
-}
-.projectGalleryCS3 {
-    padding: 5px 5px;
-}
-
+.computerScience,
 .mechanicalEngineering {
     display: flex;
-    justify-content: center;
-    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.projectGalleryCS1, 
+.projectGalleryCS2,
+.projectGalleryCS3,
+.projectGalleryME1,
+.projectGalleryME2 {
+    margin: 15px 0 15px 0;
 }
 
 .description {
     font-family: Roboto;
     font-size: 14px;
     font-weight: 700;
+    color: white;
 }
 
 ul, footer ul {
