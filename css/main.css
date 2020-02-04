@@ -81,6 +81,12 @@ body {
     flex-direction: row;
 }
 
+.description {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+}
+
 ul, footer ul {
     font-family: Roboto, sans-serif;
     font-size: 20px;
