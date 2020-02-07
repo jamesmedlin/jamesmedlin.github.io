@@ -51,7 +51,7 @@ body {
 }
 
 .profilePic {
-    border-radius: 50%;
+    /* border-radius: 50%; */
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -62,13 +62,6 @@ body {
     margin-bottom: 30px;
     z-index: 0;
     position: fixed;
-}
-
-.profileBackground {
-    z-index: -1;
-    position: relative;
-    top: 0;
-    right: 0; 
 }
 
 .computerScience,
