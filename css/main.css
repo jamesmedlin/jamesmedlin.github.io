@@ -58,15 +58,17 @@ body {
     width: 400px;
     height: 400px;
     object-fit: cover;
-    padding-top: 60px;
-    padding-bottom: 30px;
+    margin-top: 60px;
+    margin-bottom: 30px;
     z-index: 0;
+    position: fixed;
 }
 
 .profileBackground {
-    margin-left: auto;
-    margin-right: auto;
-    z-index: 1;
+    z-index: -1;
+    position: relative;
+    top: 0;
+    right: 0; 
 }
 
 .computerScience,
