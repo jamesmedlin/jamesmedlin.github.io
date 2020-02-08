@@ -63,7 +63,14 @@ body {
 }
 
 .explainer-background {
+    margin-top: -550px;
     z-index: -1;
+    margin-left: -50px;
+    width: 126%;
+}
+
+.explainer {
+    margin-top: -300px;
 }
 
 .computerScience,
