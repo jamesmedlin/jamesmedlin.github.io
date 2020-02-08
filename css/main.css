@@ -64,6 +64,9 @@ body {
 
 .explainer-background {
     z-index: -1;
+    width: 100%;
+    height: fit-content;
+    margin-top: -120px;
 }
 
 .explainer {
