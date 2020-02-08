@@ -86,12 +86,19 @@ body {
 .projectGalleryCS2,
 .projectGalleryCS3,
 .projectGalleryME1,
-.projectGalleryME2,
+.projectGalleryME2
+{
+    margin: 15px 0 15px 0;
+    object-fit: cover;
+}
+
+.cs-picture,
 .racing1,
 .racing2,
 .racing3 {
-    margin: 15px 0 15px 0;
     object-fit: cover;
+    width: 300;
+    height: 300;
 }
 
 .description {
