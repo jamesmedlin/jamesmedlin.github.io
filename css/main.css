@@ -84,7 +84,6 @@ body {
 
 .projectGalleryCS1, 
 .projectGalleryCS2,
-.projectGalleryCS3,
 .projectGalleryME1,
 .projectGalleryME2
 {
@@ -99,6 +98,7 @@ body {
     object-fit: cover;
     width: 300px;
     height: 300px;
+    border-radius: 30px;
 }
 
 .description {
