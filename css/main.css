@@ -87,7 +87,9 @@ body {
 .projectGalleryME1,
 .projectGalleryME2
 {
+    display: flex;
     margin: 15px 0 15px 0;
+    flex-direction: row;
 }
 
 .cs-picture,

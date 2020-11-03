@@ -1,0 +1,28 @@
+{
+  "name": "jamesmedlin.github.io",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesmedlin/jamesmedlin.github.io.git"
+  },
+  "author": "JD Medlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesmedlin/jamesmedlin.github.io/issues"
+  },
+  "homepage": "https://github.com/jamesmedlin/jamesmedlin.github.io#readme",
+  "dependencies": {
+    "next": "^10.0.0",
+    "next-images": "^1.6.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
