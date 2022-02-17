@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jamesmedlin/jamesmedlin.github.io#readme",
   "dependencies": {
-    "next": "^10.0.0",
+    "next": "^12.1.0",
     "next-images": "^1.6.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
